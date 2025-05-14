@@ -437,13 +437,6 @@
         "lastblockhash" : "0x040a61b75c53db702ff87270a8e95b5d5dd0d3a1105922f77232e279e3c6ac18",
         "network" : "ByzantiumToConstantinopleFixAt5",
         "postState" : {
-            "0x0cde5374fce5edbc8e2a8697c15331677e6ebf0b" : {
-                "balance" : "0x14d1120d7b160000",
-                "code" : "",
-                "nonce" : "0x00",
-                "storage" : {
-                }
-            },
             "0x1000000000000000000000000000000000000001" : {
                 "balance" : "0x09",
                 "code" : "0x4460003555",

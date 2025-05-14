@@ -460,13 +460,6 @@
                     "0x09" : "0x020140"
                 }
             },
-            "0x2cde5374fce5edbc8e2a8697c15331677e6ebf0b" : {
-                "balance" : "0x14d1120d7b160000",
-                "code" : "",
-                "nonce" : "0x00",
-                "storage" : {
-                }
-            },
             "0x8888f1f195afa192cfee860698584c030f4c9db1" : {
                 "balance" : "0x0134c7e11d4c76a870",
                 "code" : "",
